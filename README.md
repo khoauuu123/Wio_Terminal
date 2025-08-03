@@ -1,5 +1,5 @@
 # Wio_Terminal
 
-![](./anh1.jpg)
-![](./anh2.jpg)
-![](./anh3.jpg)
+![](./Wio_Terminal/anh1.jpg)
+![](./Wio_Terminal/anh2.jpg)
+![](./Wio_Terminal/anh3.jpg)
